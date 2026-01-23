@@ -1,0 +1,16 @@
+#idiot{
+text-align: center;
+color: #470644;
+  
+
+
+}
+body{
+    background-image: url(222.jpeg);
+}
+#pre{color:blue;
+  font-family: "Workbench", sans-serif;}
+ #pecer{  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;}
