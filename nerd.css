@@ -1,7 +1,7 @@
 #idiot{
 text-align: center;
 color: #470644;
-  
+font-family: "Workbench", sans-serif;  
 
 
 }
@@ -13,4 +13,5 @@ body{
  #pecer{  display: flex;
   justify-content: center;
   align-items: center;
+
   height: 20px;}
