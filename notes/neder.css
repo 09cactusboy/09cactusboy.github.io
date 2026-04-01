@@ -30,3 +30,8 @@ font-family: "Dokdo";
 font-size: 60;
 background-color: blue;
 }
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
