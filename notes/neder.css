@@ -1,0 +1,32 @@
+body{
+background-image:url(bstar.gif) ;
+
+}
+#l{
+font-family: "Dokdo";
+
+}
+#m{
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+#f{
+font-family: "Dokdo";
+text-align:center;
+color: red;
+
+}
+#f2{
+font-family: "Dokdo";
+text-align:center;
+color: red;
+font-size: 30px;
+
+}
+#lb{
+font-family: "Dokdo";
+font-size: 60;
+background-color: blue;
+}
